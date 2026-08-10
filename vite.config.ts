@@ -5,6 +5,8 @@ import { defineConfig } from "vite";
 
 // https://vite.dev/config/
 export default defineConfig({
+export default defineConfig({
+  base: "/ggh2026/",
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
