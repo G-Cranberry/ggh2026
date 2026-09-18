@@ -46,3 +46,6 @@ The app expects the Convex client configuration used by the existing project, in
 - `src/components/` — reusable interface pieces
 
 The visual design and card-generation behavior are intentionally kept intact while the project structure and documentation remain focused on the actual application.
+
+WESIT LINK 
+https://g-cranberry.github.io/ggh2026/
